@@ -1,0 +1,21 @@
+body {
+    background-color:skyblue;
+    color: #03045e;
+}
+
+.heading {
+    width: 80%;
+    font-style: italic;
+    font-size: large;
+}
+
+.name_of_persons {
+    color: #2a9d8f;
+    font-size: medium;
+}
+
+#camera, #result {
+    border: dashed;
+    width: 350px;
+    height: 200px;
+}
